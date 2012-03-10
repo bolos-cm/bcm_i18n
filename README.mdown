@@ -1,1 +1,11 @@
 # Internationalization plugin for BCM
+
+## Requirements:
+
+- CakePHP 1.3.x
+- BCM 4.x
+
+## Configuration + Installation
+
+In BCM project root:
+`git submodule add git://github.com/bolos-cm/bcm_i18n.git app/plugins/bcm_i18n`
